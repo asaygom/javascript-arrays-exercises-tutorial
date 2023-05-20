@@ -9,7 +9,7 @@ let allColors = [
 ];
 
 function generateLI(color){
-	return '<li>' + color + '</lil>'
+	// your code here
 }
 
 function filterColors(color){
